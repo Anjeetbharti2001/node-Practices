@@ -1,3 +1,7 @@
-const name = "My name is Anjeet";
+let a = 12;
+let b = 4;
 
-console.log(name + " and I am learning Node.js");
+console.log("Addition = " , a + b);
+console.log("Subtraction = ", a - b);
+console.log("Multiplication = ", a * b);
+console.log("Division = " , a/ b);
